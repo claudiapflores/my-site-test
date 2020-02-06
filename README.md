@@ -1,2 +1,3 @@
-# my-site-test
-Testing a webpage with gh-pages.
+# Claudia's awesome website!
+
+Look at all my cool data scinece projects... 
